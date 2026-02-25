@@ -1,6 +1,7 @@
 # 📊 SQL to Pandas Translator (v1.final)
 
 [![Download EXE](https://img.shields.io/badge/Download-Executable-orange?style=for-the-badge&logo=windows)](https://github.com/SantiagoArmenta1997/sql-to-pandas-translator/releases/download/v1.0.0/main.exe)
+
 **Transforma tus consultas SQL complejas en código Python eficiente de forma automática.**
 ... (resto del contenido del readme que ya tenemos)
 **Transforma tus consultas SQL complejas en código Python eficiente de forma automática.**
@@ -58,5 +59,6 @@ Si encuentras un Query que rompa el traductor o genere un error de Python, por f
 ---
 
 **Desarrollado con 🐍 y ❤️ para la comunidad de datos.**
+
 
 
