@@ -1,5 +1,8 @@
 # 📊 SQL to Pandas Translator (v1.final)
 
+[![Download EXE](https://img.shields.io/badge/Download-Executable-orange?style=for-the-badge&logo=windows)](AQUI_PONES_EL_LINK_DE_TU_RELEASE)
+
+... (resto del contenido del readme que ya tenemos)
 **Transforma tus consultas SQL complejas en código Python eficiente de forma automática.**
 
 Este proyecto nace de la necesidad de agilizar la transición entre el análisis de datos tradicional en bases de datos y el análisis avanzado en Python. No es un simple reemplazo de texto; es un motor lógico que interpreta la intención de tu SQL para generar scripts de Pandas optimizados.
@@ -53,4 +56,5 @@ Perfecto para filtrar nombres o correos por patrones de texto y renombrar column
 Si encuentras un Query que rompa el traductor o genere un error de Python, por favor házmelo saber. Mi objetivo es que este motor sea capaz de manejar cualquier consulta analítica estándar.
 
 ---
+
 **Desarrollado con 🐍 y ❤️ para la comunidad de datos.**
